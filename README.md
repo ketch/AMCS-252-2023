@@ -21,8 +21,6 @@ Textbook: “Finite Difference Methods for Ordinary and Partial Differential Equ
   - Thomas, J.W. 2010. Numerical Partial Differential Equations: Finite Difference Methods (Texts in Applied Mathematics). Springer. 
   - Trangenstein, John A. Numerical Solution of Hyperbolic Partial Differential Equations. Cambridge University Press. 
 
-Course resources: https://github.com/ketch/AMCS-252-2022
-
 ## Overview
 
 This course will introduce you to numerical methods for solving 
@@ -58,7 +56,7 @@ Alternatively, you can also use some cloud services that run Jupyter notebooks. 
   - https://mybinder.org/
   - https://colab.research.google.com/notebooks/intro.ipynb
 
-On Thursday, January 27th in class I will give a Python programming tutorial.  Before then, you should make sure you are able to run the tutorial notebook found at https://github.com/ketch/AMCS-252-2022.
+On Thursday, January 26th in class I will give a Python programming tutorial.  Before then, you should make sure you are able to run the tutorial notebook found in this repository.
 
 ## Evaluation
 
