@@ -12,7 +12,9 @@ Office hours: By appointment
 Teaching assistant: TBD   
 Office hours: TBD  
 
-Textbook: “Finite Difference Methods for Ordinary and Partial Differential Equations”, by R. J. LeVeque.
+Textbook: “Finite Difference Methods for Ordinary and Partial Differential Equations”, by R. J. LeVeque.  
+Online textbook: https://epubs.siam.org/doi/book/10.1137/1.9780898717839
+
 
  ## Additional references (not required):
   - Hans P. Langtangen. A Primer on Scientific Programming with Python.  Springer.
@@ -58,6 +60,26 @@ Alternatively, you can also use some cloud services that run Jupyter notebooks. 
 
 On Thursday, January 26th in class I will give a Python programming tutorial.  Before then, you should make sure you are able to run the tutorial notebook found in this repository.
 
+# Git
+
+The easiest way to access the course materials stored on this site is to [install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).  Then, at the command line do 
+
+    git clone https://github.com/ketch/AMCS-252-2022.git
+
+That will create a directory on your computer with all the files stored here.  When new files are added online, all you need to do is go to the `AMCS-252-2022` directory on your machine and type
+
+    git pull
+    
+Alternatively, you can just download files manually from the Github site, without any need to use git.
+
+
+# Jupyter and Python
+
+To run the Jupyter notebooks with Python code that will be used in this course, I recommend the following options:
+
+1. Local installation on your own computer (preferred).  Use the [Anaconda distribution](https://www.anaconda.com/products/individual) or just install the required packages (numpy, matplotlib, scipy, jupyter) with pip if you prefer.
+2. Use a cloud service: [My Binder](https://mybinder.org/) or [Google colaboratory](https://colab.research.google.com/)
+
 ## Evaluation
 
 ### Homework (50%)
@@ -74,7 +96,7 @@ For homework problems that require programming, you must turn in the code used t
 **No credit will be given for late work**.  That includes work that is turned in even a few minutes after the deadline.  If you have special circumstances that require an extension, talk to the instructor as soon as you know about them.
 
 
-###Exams (50%)
+### Exams (50%)
 Two midterm exams will be given, in class; one approximately half way through the course and the other on the last day of the course.  Each midterm will cover only half of the course and will be worth 1/4 of the total grade.  There will be no final exam.
 
 ### Tentative grading scale
@@ -94,5 +116,5 @@ Two midterm exams will be given, in class; one approximately half way through th
 ### Plagiarism
 Plagiarism is the act of taking credit for the words or ideas of someone else.  Any plagiarism will be grounds for failure in this course.  All material that you hand in must be your own work.  If you are in doubt, ask the instructor.
 
-###Special Accommodations
+### Special Accommodations
 If you have a personal activity, family, or religious conflict with the course schedule, you can expect to be heard sympathetically. Please contact me by the end of the second week of the term to discuss appropriate accommodations for any conflicts that can be foreseen. For illness-related absences, there are standard procedures to follow.
