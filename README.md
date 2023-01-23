@@ -111,7 +111,7 @@ Two midterm exams will be given, in class; one approximately half way through th
 | < 60%    | F |
 
 
-#Conduct
+# Conduct
 
 ### Plagiarism
 Plagiarism is the act of taking credit for the words or ideas of someone else.  Any plagiarism will be grounds for failure in this course.  All material that you hand in must be your own work.  If you are in doubt, ask the instructor.
