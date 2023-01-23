@@ -2,7 +2,7 @@
 ## Spring 2023
 
 Time: 8:00-9:30 a.m. every Monday and Thursday  
-Location: Building 9, room 3221
+Location: Building 9, room 3125
 
 
 Instructor: David Ketcheson  
