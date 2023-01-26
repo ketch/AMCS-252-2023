@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ketch/AMCS-252-2023/HEAD)
+
 # AMCS 252
 ## Spring 2023
 
