@@ -89,6 +89,8 @@ Homework will be assigned after most classes and will usually be due every secon
 
 Since the course deals with mathematical theory and algorithms, homework problems will include proofs, derivations, calculations, and programming.
 
+When calculating your final grade for the course, your lowest homework assignment score will be dropped.
+
 #### Computation
 For homework problems that require programming, Python will be the language of the course.  I will give an introduction to Python programming on the first Thursday of the course.  If you want to get a head-start, or to supplement what you learn there, a good resource is https://scipy-lectures.github.io/.
 
