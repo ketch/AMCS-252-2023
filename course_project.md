@@ -69,7 +69,7 @@ please ask or email the instructor.
   - Pseudospectral methods
   - Multigrid solvers for more complex problems (nonlinear/multidimensional) 
   - Positivity-preserving methods
-  - Galerkin finite element methods
+  - ~~Galerkin finite element methods~~
 
 ## Machine Learning
   - Neural ODEs (using IVP solvers in deep neural networks)
