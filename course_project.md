@@ -49,15 +49,15 @@ please ask or email the instructor.
   - Helmholtz equations (time-harmonic solutions of wave equations) 
    
 ## Advanced methods for initial value problems:
-  - Exponential time integrators
-  - IMEX Runge-Kutta methods
+  - [Exponential time integrators](https://www.cambridge.org/core/journals/acta-numerica/article/exponential-integrators/8ED12FD70C2491C4F3FB7A0ACF922FCD)
+  - [IMEX Runge-Kutta methods](https://www.sciencedirect.com/science/article/pii/S0168927497000561)
   - Rosenbrock methods
   - Deferred correction methods
   - Multiderivative methods
   - Extrapolation methods
-  - General linear methods
+  - [General linear methods](https://www.cambridge.org/core/journals/acta-numerica/article/general-linear-methods/68B6D07A0CBC9AC5DE06ED4048A22A3F)
   - Runge-Kutta Chebyshev and other stabilized explicit methods
-  - Continuous-stage Runge-Kutta methods
+  - [Continuous-stage Runge-Kutta methods](https://www.mdpi.com/2075-1680/11/5/192)
   - Error control techniques based on optimal control theory
   - Numerical methods for second-order IVPs
   - Symplectic methods for conservative systems
