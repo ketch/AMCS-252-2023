@@ -60,7 +60,7 @@ please ask or email the instructor.
   - [Continuous-stage Runge-Kutta methods](https://www.mdpi.com/2075-1680/11/5/192)
   - Error control techniques based on optimal control theory
   - Numerical methods for second-order IVPs
-  - Symplectic methods for conservative systems
+  - ~~Symplectic methods for conservative systems~~
   - Numerical methods for delay differential equations
   - B-series representations of IVP solvers
 
