@@ -16,7 +16,7 @@ The main purpose of the proposal is to ensure that the topic is appropriate and 
 topics is given below, but you may choose your own.  The only restriction is that you cannot use a topic for which you are already getting credit
 in another course (such as directed research or thesis work).
 
-## Progress report (due April 20th)
+## Progress report (due April 27th)
 This is a written report of no more than 4 pages, meant to help ensure that you're making adequate progress on the project.
 You should explain ideas that you have learned so far, and describe any modifications you've had to make to the original project plan and scope.
 It's also a good idea to include some preliminary numerical results (since you have hopefully made at least a preliminary implementation
